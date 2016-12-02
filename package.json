@@ -1,0 +1,26 @@
+{
+  "name": "mermaid-magic",
+  "version": "1.0.0",
+  "description": "some fun mermaid data for testing",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annnfrann/mermaid-magic.git"
+  },
+  "keywords": [
+    "json",
+    "test",
+    "data",
+    "mermaids",
+    "magic"
+  ],
+  "author": "anna lewis <anna.frances.lewis@gmail.com> (http://annnfrann.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annnfrann/mermaid-magic/issues"
+  },
+  "homepage": "https://github.com/annnfrann/mermaid-magic#readme"
+}

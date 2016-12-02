@@ -51,7 +51,7 @@
   },
   {
     "name" : "King Triton",
-    "place of origin" : "Langelinie",
+    "place of origin" : "Atlantica",
     "tail color" : "aqua",
     "hobbies" : [
       "being xenophobic towards humans",
@@ -68,5 +68,45 @@
       "dating Clark Kent",
       "keeping secrets"
     ]
-  }
+  },
+  {
+    "name" : "Adella",
+    "place of origin" : "Atlantica",
+    "tail color" : "yellow",
+    "hobbies" : [
+      "kissing boys",
+      "flirting with boys",
+      "boys"
+    ]
+  },
+  {
+    "name" : "Attina",
+    "place of origin" : "Atlantica",
+    "tail color" : "orange",
+    "hobbies" : [
+      "reading",
+      "being smart",
+      "giving advice"
+    ]
+  },
+  {
+    "name" : "Arista",
+    "place of origin" : "Atlantica",
+    "tail color" : "red",
+    "hobbies" : [
+      "playing trombone",
+      "stealing things",
+      "helping her sisters"
+    ]
+  },
+  {
+    "name" : "Aquata",
+    "place of origin" : "Atlantica",
+    "tail color" : "blue",
+    "hobbies" : [
+      "Mr. Fuzzywinkle",
+      "dancing badly",
+      "ponytails"
+    ]
+  },
 ]

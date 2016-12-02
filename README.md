@@ -12,7 +12,7 @@ some fun mermaid data for testing
 [
   {"name" : "Iridessa Shinyfin", "place of origin" : "Ligurian Sea", "tail color" : "pinkish-purplish", "hobbies" : [ "swimming", "teaching swim lessons", "matching her hair to her mood" ]},
   {"name" : "Strongfin Silverscales", "place of origin" : "Coral Sea", "tail color": "silver", "hobbies" : [ "being queen of the mermaids", "vacuuming", "teaching"]},
-  {"name" : "Ariel",  "place of origin" : "Langelinie", "tail color" : "green", "hobbies" : [ "collecting", "underwater singing", "using unusual hair accessories" ]},
+  {"name" : "Ariel", "place of origin" : "Langelinie", "tail color" : "green", "hobbies" : [ "collecting", "underwater singing", "using unusual hair accessories" ]},
   {"name" : "Parthenope", "place of origin" : "Gulf of Naples", "tail color" : "no tail, just bird legs", "hobbies" : [ "singing", "drowning sailors", "hanging out with Persephone" ]},
   {"name" : "Arthur Curry", "place of origin" : "Atlantis", "tail color" : "green, black, and silver", "hobbies" : [ "telepathically communicating with sea life", "fighting Triton", "superhuman strength" ]},
   {"name" : "King Triton", "place of origin" : "Atlantica", "tail color" : "aqua", "hobbies" : [ "being xenophobic towards humans", "losing his temper", "being transformed into a polyp" ]},

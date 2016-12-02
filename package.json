@@ -1,6 +1,6 @@
 {
   "name": "mermaid-magic",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "some fun mermaid data for testing",
   "main": "data.json",
   "scripts": {
